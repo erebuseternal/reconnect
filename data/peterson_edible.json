@@ -1,0 +1,266 @@
+[
+    {
+        "taxa": {
+            "genus": "amelanchier"
+        },
+        "use_case": "harvestable",
+        "use_case_desc": "Fruit, jelly",
+        "range": null,
+        "start": "june",
+        "end": "september",
+        "habitat": ["spruce-fir woods", "moist woods", "dry open woods", "thickets", "swamps"],
+        "environment": "Woods, thickets; rocky or swampy areas.",
+        "common_names": ["juneberries", "serviceberries"]
+    },
+    {
+        "taxa": {
+            "genus": "ledum",
+            "species": "groenlandicum"
+        },
+        "use_case": "harvestable",
+        "use_case_desc": "Tea. The dried leaves make a mild but agreeable tea when steeped in hot water for 5-10 min.",
+        "range": null,
+        "start": "january",
+        "end": "december",
+        "habitat": ["alpine tundra", "spruce-fir woods", "northern bogs"],
+        "environment": "Peaty soil, cold bogs.",
+        "common_names": ["labrador-tea"]
+    },
+    {
+        "common_names": ["common elderberry"],
+        "taxa": {
+            "genus": "sambucus",
+            "species": "canadensis"
+        },
+        "range": null,
+        "habitat": ["wet meadows"],
+        "environment": "Damp, rich soil; streambanks, thickets, roadside ditches.",
+        "start": "august",
+        "end": "october",
+        "use_case": "harvestable",
+        "use_case_desc": "Fritters, jelly, cold drink, fruit."
+    },
+    {
+        "common_names": ["new jersey tea"],
+        "taxa": {
+            "genus": "ceanothus",
+            "species": "americanus"
+        },
+        "range": null,
+        "habitat": ["dry open woods"],
+        "environment": "Dry open woods, dry roadbanks.",
+        "start": "may",
+        "end": "september",
+        "use_case": "harvestable",
+        "use_case_desc": "Tea. Prepare the thoroughly dried leaves as you would oriental tea. Excellent."
+    },
+    {
+        "common_names": ["may apple", "mandrake"],
+        "taxa": {
+            "genus": "podophyllum",
+            "species": "peltatum"
+        },
+        "range": null,
+        "habitat": ["moist woods"],
+        "environment": "Moist woods, openings.",
+        "start": "august",
+        "end": "september",
+        "use_case": "harvestable",
+        "use_case_desc": "Fresh fruit, jelly, cold drink. The large pale yellow berries ripen as the plants begin to wither and die. The pulp surrounding the seeds can be eaten raw, or cooked and made into jelly (add pectin); the juice can be added to lemonade."
+    },
+    {
+        "common_names": ["wild potato-vine"],
+        "taxa": {
+            "genus": "ipomoea",
+            "species": "pandurata"
+        },
+        "range": null,
+        "habitat": ["thickets", "old fields", "waste ground"],
+        "environment": "Dry soil, fields, roadsides, fence rows.",
+        "start": "september",
+        "end": "may",
+        "use_case": "harvestable",
+        "use_case_desc": "Potato. Baked or boiled, the immense roots resemble slightly bitter sweet potatoes. Some roots are more bitter than others and should be boiled in several changes of water."
+    },
+    {
+        "common_names": ["bunchberry", "dwarf cornel"],
+        "taxa": {
+            "genus": "cornus",
+            "species": "canadensis"
+        },
+        "range": null,
+        "habitat": ["spruce-fir woods", "moist woods"],
+        "environment": "Cold woods, mt. slopes.",
+        "start": "july",
+        "end": "october",
+        "use_case": "harvestable",
+        "use_case_desc": "Fruit. The insipid-tasting ripe berries can be eaten raw or cooked like pudding."
+    },
+    {
+        "common_names": ["water-lilies"],
+        "taxa": {
+            "genus": "nymphaea"
+        },
+        "range": null,
+        "habitat": ["still water"],
+        "environment": "",
+        "start": "january",
+        "end": "december",
+        "use_case": "harvestable",
+        "use_case_desc": "Cooked green, cooked vegetable, flour, potato, (Tuberous Water-lily). The young unrolling leaves and unopened flower-buds can be boiled for 5-10min. and served with butter. The seeds are rich in starch, oil, and protein, and can be prepared like those of the Yellow Pond-lilies. The rootstock of Tuberous Water-lily produces brown tubers the size of hens' eggs; these can be freed from the mud using your feet and collected as they float to the surface. Prepare like potatoes."
+    },
+    {
+        "common_names": ["buckbean"],
+        "taxa": {
+            "genus": "menyanthes",
+            "species": "trifoliata"
+        },
+        "range": null,
+        "habitat": ["northern bogs", "still water"],
+        "environment": "Bogs, pond edges.",
+        "start": "april",
+        "end": "july",
+        "use_case": "harvestable",
+        "use_case_desc": "Cooked vegetable, flour. Boil the long, bitter rootstocks for 30 min. in several changes of water. Or dry, crush, and leach thoroughly to make an unpalatable but nutritious flour. Use only in extreme need; protected in the U.S."
+    },
+    {
+        "common_names": ["wild calla", "water arum"],
+        "taxa": {
+            "genus": "calla",
+            "species": "palustris"
+        },
+        "range": null,
+        "habitat": ["swamps", "northern bogs", "still water"],
+        "environment": "Bogs, pond edges, swamps.",
+        "start": "september",
+        "end": "may",
+        "use_case": "harvestable",
+        "use_case_desc": "Flour. The thoroughly dried seeds and rootstocks can be ground into an unpalatable but nutritious flour in times of need."
+    },
+    {
+        "common_names": ["large flowered trillium", "white trillium"],
+        "taxa": {
+            "genus": "trillium",
+            "species": "grandiflorum"
+        },
+        "range": null,
+        "habitat": ["moist woods"],
+        "environment": "Rich moist woods.",
+        "start": "march",
+        "end": "may",
+        "use_case": "harvestable",
+        "use_case_desc": "Salad, cooked green. The young unfolding leaves are excellent added fresh to salads, suggesting raw sunflower seeds, or boiled for 10 min. and served with vinegar; the leaves become bitter once the buds and flowers appear."
+    },
+    {
+        "common_names": ["grass-leaved arrowhead"],
+        "taxa": {
+            "genus": "sagittaria",
+            "species": "graminea"
+        },
+        "range": null,
+        "habitat": ["still water"],
+        "environment": "Wet mud or sand, shallow water.",
+        "start": "september",
+        "end": "may",
+        "use_case": "harvestable",
+        "use_case_desc": "Potato. The tubers can be gathered in quantity by freeing them from the mud with a hoe or rake and collecting them as they float to the water's surface. Although slightly unpleasant-tasting eaten raw, the tubers are delicious when cooked; prepare them as you would potatoes."
+    },
+    {
+        "common_names": ["sessile-fruited arrowhead"],
+        "taxa": {
+            "genus": "sagittaria",
+            "species": "rigida"
+        },
+        "range": null,
+        "habitat": ["still water"],
+        "environment": "Pond edges, quiet water.",
+        "start": "september",
+        "end": "may",
+        "use_case": "harvestable",
+        "use_case_desc": "Potato. The tubers can be gathered in quantity by freeing them from the mud with a hoe or rake and collecting them as they float to the water's surface. Although slightly unpleasant-tasting eaten raw, the tubers are delicious when cooked; prepare them as you would potatoes."
+    },
+    {
+        "common_names": ["broad-leaved arrowhead", "wapato"],
+        "taxa": {
+            "genus": "sagittaria",
+            "species": "latifolia"
+        },
+        "range": null,
+        "habitat": ["still water"],
+        "environment": "Pond edges, shallow water.",
+        "start": "september",
+        "end": "may",
+        "use_case": "harvestable",
+        "use_case_desc": "Potato. The tubers can be gathered in quantity by freeing them from the mud with a hoe or rake and collecting them as they float to the water's surface. Although slightly unpleasant-tasting eaten raw, the tubers are delicious when cooked; prepare them as you would potatoes."
+    },
+    {
+        "common_names": ["cow-cress", "field peppergrass"],
+        "taxa": {
+            "genus": "lepidium",
+            "species": "campestre"
+        },
+        "range": null,
+        "habitat": ["open fields", "waste ground"],
+        "environment": "Waste places, fields",
+        "start": "march",
+        "end": "september",
+        "use_case": "harvestable",
+        "use_case_desc": "Salad, cooked green, seasoning. Add the pungent young leaves to salads or boil for 10 min. Add the peppery green seedpods to hot soups and stews. Leaves contain vitamins C and A, iron, and protein."
+    },
+    {
+        "common_names": ["poor-man's-pepper", "peppergrass"],
+        "taxa": {
+            "genus": "lepidium",
+            "species": "virginicum"
+        },
+        "range": null,
+        "habitat": ["waste ground"],
+        "environment": "Dry soil, waste ground.",
+        "start": "march",
+        "end": "september",
+        "use_case": "harvestable",
+        "use_case_desc": "Salad, cooked green, seasoning. Add the pungent young leaves to salads or boil for 10 min. Add the peppery green seedpods to hot soups and stews. Leaves contain vitamins C and A, iron, and protein."
+    },
+    {
+        "common_names": ["shepherd's purse"],
+        "taxa": {
+            "genus": "capsella",
+            "species": "bursa-pastoris"
+        },
+        "range": null,
+        "habitat": ["open fields", "waste ground"],
+        "environment": "Roadsides, waste ground.",
+        "start": "march",
+        "end": "november",
+        "use_case": "harvestable",
+        "use_case_desc": "Salad, cooked greed, seasoning. Add the young leaves to salads, or prepare like spinach; gather before the flowers appear. Use the dried seedpods as a pepperlike seasoning."
+    },
+    {
+        "common_names": ["horseradish"],
+        "taxa": {
+            "genus": "armoracea",
+            "species": "lapathifolia"
+        },
+        "range": null,
+        "habitat": ["waste ground"],
+        "environment": "Moist waste ground.",
+        "start": "january",
+        "end": "december",
+        "use_case": "harvestable",
+        "use_case_desc": "Condiment, salad. The source of commercial horseradish. Mix the grated roots with a little vinegar. Add the tender young leaves to salads."
+    },
+    {
+        "common_names": ["field pennycress"],
+        "taxa": {
+            "genus": "thlaspi",
+            "species": "arvense"
+        },
+        "range": null,
+        "habitat": ["open fields", "waste ground"],
+        "environment": "Waste ground, fields.",
+        "start": "march",
+        "end": "november",
+        "use_case": "harvestable",
+        "use_case_desc": "Salad, cooked green, seasoning."
+    }
+]
