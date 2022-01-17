@@ -16,3 +16,6 @@ RUN pip install jupyterlab==1.2.6
 
 # add git, vim and curl
 RUN apt-get -y install git vim curl
+
+# add the earth engine api
+RUN pip install earthengine-api folium
