@@ -19,3 +19,8 @@ RUN apt-get -y install git vim curl
 
 # add the earth engine api
 RUN pip install earthengine-api folium
+
+RUN pip install pandas
+
+RUN apt-get -y install libgdal-dev
+RUN pip install geopandas
