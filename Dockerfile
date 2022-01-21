@@ -12,7 +12,7 @@ RUN apt-get -y install python3.6 && \
 RUN echo "alias python=python3.6" >> /root/.bashrc
 
 # add jupyter lab
-RUN pip install jupyterlab==1.2.6
+RUN pip install jupyterlab
 
 # add git, vim and curl
 RUN apt-get -y install git vim curl
@@ -24,3 +24,10 @@ RUN pip install pandas
 
 RUN apt-get -y install libgdal-dev
 RUN pip install geopandas
+
+RUN apt-get -y install nodejs
+RUN pip install plotly, ipywidgets
+
+RUN pip install sqlalchemy, psycopg2
+
+RUN pip install h3, colours
