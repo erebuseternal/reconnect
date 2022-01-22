@@ -30,4 +30,4 @@ RUN pip install plotly, ipywidgets
 
 RUN pip install sqlalchemy, psycopg2
 
-RUN pip install h3, colours
+RUN pip install h3, colours, seaborn, scikit-learn
