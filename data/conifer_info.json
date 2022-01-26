@@ -1,0 +1,400 @@
+{
+    "Pinus albicaulis": {
+        "common_names": ["whitebark pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [4, 7],
+            "cone_length": [4, 8],
+            "diameter": [0.3, 0.6],
+            "height": [6, 15],
+            "cone_scale_descriptors": ["thick", "spine"]
+        }
+    },
+    "Pinus aristata": {
+        "common_names": ["bristlecone pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [2, 4],
+            "cone_length": [6, 9],
+            "diameter": [0.3, 0.8],
+            "height": [6, 12],
+            "cone_scale_descriptors": ["four_sided", "bristled"]
+        }
+    },
+    "Pinus attenuata": {
+        "common_names": ["knobcone pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [8, 18],
+            "cone_length": [8, 15],
+            "diameter": [0.3, 0.8],
+            "height": [9, 24],
+            "cone_scale_descriptors": ["raised", "keeled", "spine"]
+        }
+    },
+    "Pinus banksiana": {
+        "common_names": ["jack pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [2, 4],
+            "cone_length": [3, 5],
+            "diameter": [0.3, 0.3],
+            "height": [9, 21],
+            "cone_scale_descriptors": ["raised", "keeled"]
+        }
+    },
+    "Pinus cembroides": {
+        "common_names": ["mexican pinyon"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [3, 6],
+            "cone_length": [2, 5],
+            "diameter": [0.3, 0.3],
+            "height": [5, 6],
+            "cone_scale_descriptors": ["thick", "four_sided"]
+        }
+    },
+    "Pinus clausa": {
+        "common_names": ["sand pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [5, 9],
+            "cone_length": [5, 9],
+            "diameter": [0.3, 0.5],
+            "height": [9, 21],
+            "cone_scale_descriptors": ["raised", "keeled"]
+        }
+    },
+    "Pinus contorta": {
+        "common_names": ["lodgepole pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [3, 7],
+            "cone_length": [2, 5],
+            "diameter": [0.3, 0.9],
+            "height": [6, 24],
+            "cone_scale_descriptors": ["raised", "keeled", "bristled"]
+        }
+    },
+    "Pinus coulteri": {
+        "common_names": ["coulter pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [20, 30],
+            "cone_length": [20, 30],
+            "diameter": [0.3, 0.8],
+            "height": [12, 21],
+            "cone_scale_descriptors": ["thick", "keeled", "spine"]
+        }
+    },
+    "Pinus echinata": {
+        "common_names": ["shortleaf pine"],
+        "features": {
+            "bundle_size": [2, 3],
+            "needle_length": [7, 11],
+            "cone_length": [4, 6],
+            "diameter": [0.5, 0.9],
+            "height": [21, 30],
+            "cone_scale_descriptors": ["keeled", "bristled"]
+        }
+    },
+    "Pinus edulis": {
+        "common_names": ["colorado pinyon pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [2, 4],
+            "cone_length": [4, 5],
+            "diameter": [0.3, 0.6],
+            "height": [5, 11],
+            "cone_scale_descriptors": ["thick", "resinous"]
+        }
+    },
+    "Pinus elliottii": {
+        "common_names": ["slash pine"],
+        "features": {
+            "bundle_size": [2, 3],
+            "needle_length": [18, 25],
+            "cone_length": [6, 15],
+            "diameter": [0.6, 0.8],
+            "height": [18, 30],
+            "cone_scale_descriptors": ["keeled", "bristled"]
+        }
+    },
+    "Pinus engelmanni": {
+        "common_names": ["apache pine"],
+        "features": {
+            "bundle_size": [3, 5],
+            "needle_length": [20, 30],
+            "cone_length": [10, 14],
+            "diameter": [0.6, 0.6],
+            "height": [15, 21],
+            "cone_scale_descriptors": ["four_sided", "raised", "thick", "keeled", "spine"]
+        }
+    },
+    "Pinus flexilis": {
+        "common_names": ["limber pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [5, 9],
+            "cone_length": [8, 15],
+            "diameter": [0.6, 0.9],
+            "height": [12, 15],
+            "cone_scale_descriptors": ["thick"]
+        }
+    },
+    "Pinus glabra": {
+        "common_names": ["spruce pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [4, 10],
+            "cone_length": [3, 6],
+            "diameter": [0.6, 0.8],
+            "height": [24, 27],
+            "cone_scale_descriptors": []
+        }
+    },
+    "Pinus jeffreyi": {
+        "common_names": ["jeffrey pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [13, 25],
+            "cone_length": [13, 25],
+            "diameter": [0.6, 1.2],
+            "height": [24, 39],
+            "cone_scale_descriptors": ["raised", "keeled", "spine"]
+        }
+    },
+    "Pinus lambertiana": {
+        "common_names": ["sugar pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [7, 10],
+            "cone_length": [28, 46],
+            "diameter": [0.9, 1.8],
+            "height": [30, 49],
+            "cone_scale_descriptors": ["thick"]
+        }
+    },
+    "Pinus leiophyhlla": {
+        "common_names": ["chihuahua pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [6, 10],
+            "cone_length": [4, 6],
+            "diameter": [0.3, 0.6],
+            "height": [9, 24],
+            "cone_scale_descriptors": ["bristled"]
+        }
+    },
+    "Pinus monophylla": {
+        "common_names": ["singleleaf pinyon"],
+        "features": {
+            "bundle_size": [1, 2],
+            "needle_length": [3, 6],
+            "cone_length": [5, 8],
+            "diameter": [0.3, 0.5],
+            "height": [5, 9],
+            "cone_scale_descriptors": ["four_sided", "thick", "bristled"]
+        }
+    },
+    "Pinus monitcola": {
+        "common_names": ["western white pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [5, 10],
+            "cone_length": [13, 23],
+            "diameter": [0.9, 0.9],
+            "height": [30, 30],
+            "cone_scale_descriptors": []
+        }
+    },
+    "Pinus muricata": {
+        "common_names": ["bishop pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [10, 15],
+            "cone_length": [5, 9],
+            "diameter": [0.6, 0.9],
+            "height": [12, 24],
+            "cone_scale_descriptors": ["raised", "keeled", "spine"]
+        }
+    },
+    "Pinus nigra": {
+        "common_names": ["black pine", "austrian pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [10, 18],
+            "cone_length": [5, 10],
+            "diameter": [0.3, 0.6],
+            "height": [15, 18],
+            "cone_scale_descriptors": ["bristled"]
+        }
+    },
+    "Pinus palustris": {
+        "common_names": ["longleaf pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [25, 46],
+            "cone_length": [15, 25],
+            "diameter": [0.6, 0.8],
+            "height": [24, 30],
+            "cone_scale_descriptors": ["raised", "keeled", "bristled"]
+        }
+    },
+    "Pinus ponderosa": {
+        "common_names": ["ponderosa pine"],
+        "features": {
+            "bundle_size": [2, 5],
+            "needle_length": [10, 20],
+            "cone_length": [5, 15],
+            "diameter": [0.8, 1.2],
+            "height": [18, 39],
+            "cone_scale_descriptors": ["raised", "keeled", "bristled"]
+        }
+    },
+    "Pinus pungens": {
+        "common_names": ["table mountain pine"],
+        "features": {
+            "bundle_size": [2, 3],
+            "needle_length": [3, 6],
+            "cone_length": [5, 9],
+            "diameter": [0.3, 0.6],
+            "height": [6, 12],
+            "cone_scale_descriptors": ["thick", "keeled", "spine"]
+        }
+    },
+    "Pinus quadrifolia": {
+        "common_names": ["parry pinyon"],
+        "features": {
+            "bundle_size": [3, 5],
+            "needle_length": [3, 6],
+            "cone_length": [4, 6],
+            "cone_resin": true,
+            "diameter": [0.3, 0.5],
+            "height": [5, 9],
+            "cone_scale_descriptors": ["resinous", "thick", "four_sided", "bristled"]
+        }
+    },
+    "Pinus radiata": {
+        "common_names": ["monterey pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [10, 15],
+            "cone_length": [8, 15],
+            "diameter": [0.3, 0.9],
+            "height": [15, 30],
+            "cone_scale_descriptors": ["thick", "raised"]
+        }
+    },
+    "Pinus resinosa": {
+        "common_names": ["red pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [11, 17],
+            "cone_length": [4, 6],
+            "needle_flexibility": "break",
+            "diameter": [0.3, 0.9],
+            "height": [21, 24],
+            "cone_scale_descriptors": ["keeled"]
+        }
+    },
+    "Pinus rigida": {
+        "common_names": ["pitch pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [8, 13],
+            "cone_length": [3, 7],
+            "diameter": [0.3, 0.6],
+            "height": [15, 18],
+            "cone_scale_descriptors": ["keeled", "raised", "bristled"]
+        }
+    },
+    "Pinus sabiniana": {
+        "common_names": ["gray pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [20, 30],
+            "cone_length": [15, 25],
+            "diameter": [0.6, 1.2],
+            "height": [12, 21],
+            "cone_scale_descriptors": ["four_sided", "thick", "keeled"]
+        }
+    },
+    "Pinus serotina": {
+        "common_names": ["pond pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [13, 20],
+            "cone_length": [5, 6],
+            "diameter": [0.3, 0.6],
+            "height": [12, 21],
+            "cone_scale_descriptors": ["raised", "keeled"]
+        }
+    },
+    "Pinus strobiformis": {
+        "common_names": ["southwestern white pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [6, 9],
+            "cone_length": [15, 23],
+            "diameter": [0.5, 0.9],
+            "height": [15, 24],
+            "cone_scale_descriptors": []
+        }
+    },
+    "Pinus strobus": {
+        "common_names": ["eastern white pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [6, 13],
+            "cone_length": [10, 20],
+            "diameter": [0.9, 1.2],
+            "height": [33, 33],
+            "cone_scale_descriptors": []
+        }
+    },
+    "Pinus sylvestris": {
+        "common_names": ["scots pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [4, 7],
+            "cone_length": [3, 6],
+            "diameter": [0.6, 0.6],
+            "height": [21, 21],
+            "cone_scale_descriptors": []
+        }
+    },
+    "Pinus taeda": {
+        "common_names": ["loblolly pine"],
+        "features": {
+            "bundle_size": [3, 3],
+            "needle_length": [13, 23],
+            "cone_length": [8, 13],
+            "diameter": [0.6, 0.9],
+            "height": [24, 30],
+            "cone_scale_descriptors": ["raised", "keeled", "spine"]
+        }
+    },
+    "Pinus torreyana": {
+        "common_names": ["torrey pine"],
+        "features": {
+            "bundle_size": [5, 5],
+            "needle_length": [20, 33],
+            "cone_length": [10, 15],
+            "diameter": [0.3, 0.6],
+            "height": [9, 15],
+            "cone_scale_descriptors": ["thick", "keeled", "four_sided", "spine"]
+        }
+    },
+    "Pinus virginiana": {
+        "common_names": ["virginia pine"],
+        "features": {
+            "bundle_size": [2, 2],
+            "needle_length": [4, 8],
+            "cone_length": [4, 7],
+            "diameter": [0.3, 0.5],
+            "height": [9, 18],
+            "cone_scale_descriptors": ["bristled"]
+        }
+    }
+}
